@@ -21,7 +21,7 @@ def using_shift(array)
 end
 
 def using_shift_with_args
-  
+  array.shift(2)
 end
 
 def using_concat
